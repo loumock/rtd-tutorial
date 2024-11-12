@@ -17,7 +17,9 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
    usage
    api
-   Sklearn_digits
+   notebook/Basic_use
