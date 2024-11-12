@@ -20,6 +20,4 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   usage
-   api
-   notebook/Basic_use
+   notebooks/Basic_use
