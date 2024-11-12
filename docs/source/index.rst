@@ -17,7 +17,5 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   notebooks/Basic_use
+   
+   usage
