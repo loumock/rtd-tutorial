@@ -20,7 +20,7 @@ extensions = [
     'nbsphinx',
 ]
 
-source_suffix = [".rst", ".md"]
+source_suffix = [".rst", ".md", ".ipynd"]
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
