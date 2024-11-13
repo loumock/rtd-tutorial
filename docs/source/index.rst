@@ -21,4 +21,5 @@ Contents
    :caption: Contents:
 
    usage
-   index
+   api
+   Notebooks/test
