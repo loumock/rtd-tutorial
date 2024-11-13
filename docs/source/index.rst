@@ -23,3 +23,4 @@ Contents
    usage
    api
    Notebooks/test
+   Notebooks/Basic_use
