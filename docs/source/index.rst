@@ -24,3 +24,4 @@ Contents
    api
    Notebooks/test
    Notebooks/Basic_use
+   Notebooks/Sklearn_digits
