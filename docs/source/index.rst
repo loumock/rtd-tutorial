@@ -22,4 +22,3 @@ Contents
 
    usage
    index
-   Notebooks/Basic_use
