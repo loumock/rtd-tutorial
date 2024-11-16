@@ -21,5 +21,4 @@ Contents
    :caption: a:
    :glob:
 
-   *
    Notebook/Datasets/Basic Dataset/Basic_use
