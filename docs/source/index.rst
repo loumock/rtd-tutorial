@@ -19,8 +19,8 @@ Contents
 .. toctree::
    :maxdepth: 10
    :caption: a:
+   :glob:
 
    usage
-   :caption: b:
    api
-   
+   *
