@@ -22,3 +22,4 @@ Contents
    :glob:
 
    *
+   Notebook/*
