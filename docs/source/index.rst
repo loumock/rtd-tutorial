@@ -18,7 +18,8 @@ Contents
 
 .. toctree::
    :maxdepth: 10
+   :glob:
 
    usage
    api
-   Notebook/Datasets/BasicDatasets/basic_use
+   Notebook/Datasets/BasicDatasets/*
