@@ -17,11 +17,9 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 10
    :caption: Contents:
 
    usage
    api
-   Notebooks/test
-   Notebooks/Basic_use
-   Notebooks/Sklearn_digits
+   Notebook/Datasets/Basic Dataset/Basic_use
