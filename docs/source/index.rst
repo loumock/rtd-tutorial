@@ -21,4 +21,4 @@ Contents
 
    usage
    api
-   Notebook/Datasets/BasicDatasets/basic_use
+   notebook/Datasets/BasicDatasets/basic_use
