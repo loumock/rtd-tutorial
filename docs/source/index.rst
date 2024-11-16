@@ -22,4 +22,4 @@ Contents
    :glob:
 
    *
-   Notebook/*
+   Notebook/Datasets/Basic Dataset/Basic_use
