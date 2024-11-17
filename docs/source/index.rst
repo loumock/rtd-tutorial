@@ -20,5 +20,10 @@ Contents
    :maxdepth: 5
 
    usage
+
+Utilisation 
+-----------
+
+.. toctree::
    api
    notebook/basic_use
