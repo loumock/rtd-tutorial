@@ -76,11 +76,16 @@ Machine learning theory
    notebook/theory/torch tutorials/autograd tutorial/autograd
    notebook/theory/torch tutorials/tensor tutorial/tensor
    notebook/theory/torch tutorials/tensor tutorial/tensor_exerices
-
+   
 .. toctree::
-   :caption: A ranger
+   :caption: Sklearn Package
    :maxdepth: 2
 
    notebook/theory/Logistic_regression
+
+.. toctree::
+   :caption: Machine Learning Theory
+   :maxdepth: 2
+
    notebook/theory/metrics
    massive_data
