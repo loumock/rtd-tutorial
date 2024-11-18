@@ -9,19 +9,14 @@ Objectives
 This project aims to achieve the following:
 
 1. **Provide a Guided Learning Path**  
-   We break down complex AI concepts into digestible modules, combining theoretical knowledge with practical, hands-on tutorials. Whether you're new to programming or just starting your AI journey, this resource will guide you every step of the way.
 
 2. **Centralize Resources**  
-   By consolidating the key takeaways from our coursework, practical exercises, and supplementary materials, we offer a one-stop repository of knowledge. This ensures that learners can seamlessly access everything they need to understand and implement AI techniques.
 
 3. **Foster Practical Skills**  
-   Beyond theoretical understanding, our focus is on application. This documentation includes real-world examples, coding exercises, and guided projects that enable you to develop skills and confidence in building AI solutions.
 
-4. **Encourage Self-Paced Exploration**  
-   Recognizing that every learner is different, the material is organized to allow for flexible navigation. You can progress step-by-step or focus on specific areas of interest based on your goals.
+4. **Encourage Self-Paced Exploration** 
 
 5. **Inspire Creativity and Innovation**  
-   By the end of this journey, you will not only understand the foundational aspects of AI but also be equipped to innovate and contribute to the field, turning your ideas into reality.
 
 ---
 
@@ -53,6 +48,7 @@ Datasets
 
    notebook/datasets/BasicDataset/Basic_use
    notebook/datasets/BasicDataset/Sklearn_digits
+   notebook/datasets/image to array/image_to_array
 
 .. toctree::
    :caption: More advanced datasets
@@ -70,6 +66,16 @@ Machine learning theory
    notebook/theory/galgorithm/Genetic_algorithm
 
 .. toctree::
+   :caption: Metrics for Machine Learning
+   :maxdepth: 2
+
+   notebook/theory/NLP metrics/metrics
+   massive_data
+
+Package to master
+=================
+
+.. toctree::
    :caption: Torch tutorial
    :maxdepth: 2
 
@@ -83,9 +89,3 @@ Machine learning theory
 
    notebook/theory/Logistic_regression
 
-.. toctree::
-   :caption: Machine Learning Theory
-   :maxdepth: 2
-
-   notebook/theory/metrics
-   massive_data
