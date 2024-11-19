@@ -19,12 +19,14 @@ class GeneticAlgo():
         liste_x = [gen for gen in range(self.nb_gen)]
         liste_y = [sol.score for sol in self.best_for_each_gen]
         plt.plot(liste_x, liste_y, 'o')
+        plt.xlabel("generations")
+        plt.ylabel("score of best solution")
         if show:
             plt.show()
 
     def fct_during_gen(self, actual_gen, actual_pop):
         """The function called at each generation"""
-        print(actual_gen, gen=" ")
+        print(actual_gen, end=" ")
 
     def score(self, x:Solution):
         """Calculate score of solution as solution"""
