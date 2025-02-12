@@ -39,7 +39,7 @@ Introduction and initialisation
 
 
 
-Datasets 
+Dataset 
 ========
 
 .. toctree::
@@ -52,7 +52,7 @@ Datasets
    
 
 .. toctree::
-   :caption: Advanced datasets
+   :caption: Advanced dataset
    :maxdepth: 2
 
    notebook/datasets/Moredatasets/images_augmentation
@@ -90,6 +90,20 @@ Package to master
 
    notebook/theory/Logistic_regression
 
+Transformers
+===========
+
+.. toctree::
+   :caption: Transformers
+   :maxdepth: 2
+
+   notebook/hug/quicktour
+   notebook/hug/preprocessing
+   notebook/hug/task_summary
+   notebook/hug/tokenizer_summary
+   notebook/hug/training
+
+
 Application on a project : PDF to Latex
 =======================================
 
@@ -103,5 +117,5 @@ Application on a project : PDF to Latex
 .. toctree::
    :caption: Finetuning a pre-existing model
    :maxdepth: 2
-   
+
    notebook/project/finetuning
