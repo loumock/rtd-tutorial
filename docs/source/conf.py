@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Introduction to IA IP project'
+project = 'IP project'
 copyright = '2024, A.Gayen, M.Longatte, L.Mocq & M.Ottavy'
 author = 'A.Gayen, M.Longatte, L.Mocq & M.Ottavy'
 
 release = '0.1'
-version = '0.1.0'
+version = '2.0.0'
 
 # -- General configuration
 
