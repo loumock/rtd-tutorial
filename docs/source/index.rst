@@ -47,11 +47,12 @@ Datasets
    :maxdepth: 2
 
    notebook/datasets/BasicDataset/Basic_use
-   notebook/datasets/BasicDataset/Sklearn_digits
-   notebook/datasets/image to array/image_to_array
+   notebook/datasets/BasicDataset/images
+   notebook/datasets/BasicDataset/loading_datasets
+   
 
 .. toctree::
-   :caption: More advanced datasets
+   :caption: Advanced datasets
    :maxdepth: 2
 
    notebook/datasets/Moredatasets/images_augmentation
@@ -89,3 +90,18 @@ Package to master
 
    notebook/theory/Logistic_regression
 
+Application on a project : PDF to Latex
+=======================================
+
+.. toctree::
+   :caption: Creating a database
+   :maxdepth: 2
+
+   notebook/datasets/BasicDataset/buildd
+
+
+.. toctree::
+   :caption: Finetuning a pre-existing model
+   :maxdepth: 2
+   
+   notebook/project/finetuning
