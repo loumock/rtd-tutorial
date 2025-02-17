@@ -18,6 +18,8 @@ This project aims to achieve the following:
 
 5. **Inspire Creativity and Innovation**  
 
+6. **Use the knowledge acquiered on an example**
+
 ---
 
 This documentation is your gateway to mastering AI fundamentals and building a meaningful project. Whether you’re a student, enthusiast, or aspiring AI developer, this tutorial should allow you to build your project.
@@ -51,12 +53,6 @@ Dataset
    notebook/datasets/BasicDataset/loading_datasets
    
 
-.. toctree::
-   :caption: Advanced dataset
-   :maxdepth: 2
-
-   notebook/datasets/Moredatasets/images_augmentation
-
 Machine learning theory
 =======================
 
@@ -80,7 +76,6 @@ Package to master
    :caption: Torch tutorial
    :maxdepth: 2
 
-   notebook/theory/torch tutorials/autograd tutorial/autograd
    notebook/theory/torch tutorials/tensor tutorial/tensor
    notebook/theory/torch tutorials/tensor tutorial/tensor_exerices
    
